@@ -1,3 +1,4 @@
 # cp
-# this is a replica of the cp command for the linux terminal
-# compile with "gcc cp.c -o cp"
+This is a replica of the cp command for the linux terminal.
+Compile with "gcc cp.c -o cp".
+Technologies used C.
